@@ -1,6 +1,6 @@
 # TEAM9--CS691-692-IT691-SPRING-2020
 
-Deepfakes Detection Challenge Using AI and Machine Learning
+Title: Deepfakes Detection Challenge Using AI and Machine Learning
 
 Team Members: Michael Leonardi, Ashutosh Misar.
 
