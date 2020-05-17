@@ -6,7 +6,7 @@ Team Members: Michael Leonardi, Ashutosh Misar.
 
 Customer: Sivakumar G. Pillai.
 
-Facebook is funding research by delivering a deepfakes
+Abstract: Facebook is funding research by delivering a deepfakes
 detection challenge to the worldwide community of 2.37
 Billion monthly active users. This AI challenges the community
 to find solutions to fake or altered videos appearing on Facebook
